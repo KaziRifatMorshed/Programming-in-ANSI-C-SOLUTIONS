@@ -16,6 +16,6 @@
 	c. f  
 	d. f (semicolon, not period(=dot or full-stop)  
 	e. f (The operators <= and >= have the same level of precedence, but the != operator has a different precedence level)  
-	
-	
-	
+	f. t (int and unsigned int NO FLOAT AND LONG ARE SUPER FLOTATS)  
+	g. t  
+	h.   
